@@ -1,0 +1,6 @@
+Features
+scenario: Login with valid credential
+Given: user must exist in App
+When: open the browser and Enter URL
+And: fill the valid credential and click on login
+Then: Home page must be displayed
